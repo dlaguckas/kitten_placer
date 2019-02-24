@@ -1,4 +1,5 @@
 # kitten_placer
 
-A basic app to show a list of kittens using React Native and Redux.
-Tested only on Android 9.
+A basic app to show a list of kittens from placekitten.com API using React Native and Redux.
+
+There is a signed release version apk in the root directory.
